@@ -14,9 +14,6 @@
             "email": "daftspunky@gmail.com"
         }
     ],
-    "require": {
-        "php": ">=5.5.9"
-    },
     "autoload": {
         "psr-4": {
             "October\\Rain\\Config\\": "src/"
