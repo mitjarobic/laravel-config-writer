@@ -14,10 +14,5 @@
             "email": "daftspunky@gmail.com"
         }
     ],
-    "autoload": {
-        "psr-4": {
-            "October\\Rain\\Config\\": "src/"
-        }
-    },
     "minimum-stability": "dev"
 }
